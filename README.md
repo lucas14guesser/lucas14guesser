@@ -1,4 +1,4 @@
-# 💫 Olá!!! Eu sou o Lucas!
+#Olá!!! Eu sou o Lucas!
 📚 Cursando Sistemas de informação<br>💻 Desenvolvedor de sistemas<br>⌛ 2 0 0 0
 
 
