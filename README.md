@@ -1,5 +1,5 @@
 # Olá!!! Eu sou o Lucas!
-📚 Cursando Sistemas de informação<br>💻 Desenvolvedor de sistemas<br>⌛ 2 0 0 0
+📚 Cursando Sistemas de informação<br>💻 Desenvolvedor de sistemas<br>⌛ 14/06/2000
 
 
 ## 
