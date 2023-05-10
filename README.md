@@ -1,5 +1,5 @@
-# 💫 About Me:
-Olá!!! Eu sou o Lucas!<br><br>📚 Cursando Sistemas de informação<br>💻 Desenvolvedor de sistemas<br>⌛ 2 0 0 0
+# 💫 Olá!!! Eu sou o Lucas!
+📚 Cursando Sistemas de informação<br>💻 Desenvolvedor de sistemas<br>⌛ 2 0 0 0
 
 
 ## 🌐 Socials:
