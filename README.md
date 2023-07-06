@@ -1,4 +1,4 @@
-# Olá!!! Eu sou o Lucas!
+# Olá!!! Seja bem-vindo ao meu perfil!
 📚 Cursando Sistemas de informação<br>💻 Desenvolvedor Front-end<br>⌛ 14/06/2000
 
 
