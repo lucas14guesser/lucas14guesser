@@ -1,5 +1,5 @@
 # Olá!!! Seja bem-vindo ao meu perfil!
-📚 Graduado em Sistemas de informação<br>💻 Desenvolvedor Front-end<br>⌛ 14/06/2000
+📚 Graduado em Sistemas de informação<br>💻 Desenvolvedor Full-stack<br>⌛ 14/06/2000
 
 
 
